@@ -24,9 +24,6 @@ public class Client {
 
 			Scanner scanner = new Scanner(System.in);
 			
-
-			
-			
 			while (!clientMessage.equals("end")) {
 
 				// Prompt user to enter some number or 'end'
